@@ -6,6 +6,7 @@ public class Home {
 		System.out.println("home");
 		System.out.println("to");
 		System.out.println("company");
+		System.out.println("school");
 
 	}
 
